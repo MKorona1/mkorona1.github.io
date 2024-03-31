@@ -12,3 +12,4 @@ Data used in a following analysis is a historical collection of crime incidents 
 
 <iframe src="plotly_plot.html" width="100%" height="500px" scrolling="no" seamless="seamless" frameborder="0"></iframe>
 
+<iframe src="burglary_interactive_weekday.html" width="100%" height="500px"></iframe>
