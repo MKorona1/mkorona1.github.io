@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Analysis of ....
+title: A dive into San Francisco's history of Burglary
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Description - TODO
+  San Francisco, often referred to as the city by the bay, has a complex history with crime. In this paper, we'll delve into its burglary trends from 2012 to 2017 to uncover patterns and gain insights into this aspect of the city's dynamics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
