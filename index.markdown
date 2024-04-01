@@ -12,7 +12,7 @@ To investigate this issue, we used data from a historical collection of crime in
 
 Let's begin our analysis by examining trend in the burglary rates throughout the years. 
 
-<img align="left" width="500" src="assets/burglary_years.png">
+<img align="left" width="500" src="assets/burglary_years.png" style="padding-right: 20px">
 <!-- *Burglary Incidents per Year (2012-2017)* -->
 
 As observed in the plot on the left, the number of burglary incidents is quite stable throughout the years. There was a visible drop in the number of crimes between 2007 and 2011, that might have given some hope to SF's redidents, but later the numbers increased again. We can clearly see that the situation was a bit better than in mentioned before year 2021, but with the rates going up to over 7000 in 2005, one can wonder if the situation is significantly worse nowadays. 
