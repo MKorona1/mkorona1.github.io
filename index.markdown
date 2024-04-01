@@ -21,8 +21,8 @@ Now that we've gained some insight on the overall burglary rates per year in the
 
 <iframe src="assets/plotly_plot.html" 
     align="right" 
-    width="800" 
-    height="600"
+    width="500" 
+    height="400"
     scrolling="no" 
     seamless="seamless" 
     frameborder="0">
@@ -36,8 +36,8 @@ Transitioning from the spatial analysis, our investigation now turns towards exa
 <iframe src="assets/districts_years.html"
     sandbox="allow-same-origin allow-scripts"
     align="left"
-    width="800"
-    height="600"
+    width="500"
+    height="400"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
