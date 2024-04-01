@@ -17,7 +17,7 @@ Let's begin our analysis by examining trend in the burglary rates throuhout the 
 
 As observed in the plot on the left, the number of burglary incidents is quite stable throughout the years. There was a visible drop in the number of crimes between 2007 and 2011, that might have given some hope to SF's redidents, but later the numbers increased again. We can clearly see that the situation was a bit better than in mentioned before year 2021, but with the rates going up to over 7000 in 2005, one can wonder if the situation is significantly worse nowadays. The consistent trend indicates a relatively stable rate of burglary occurrences over this six-year period in San Francisco. This finding sets the stage for a more detailed analysis to uncover any underlying factors or patterns that may contribute to quite consistent levels of burglary activity throughout these years.
 
-Now that we've gained some insight on the overall burglary rates per year in the city it's time to take a look at where the crimes are appearing. Understanding where burglary incidents are occurring is crucial for identifying hotspots and deploying targeted interventions to mitigate risk. By examining the geographical locations of these incidents, we aim to uncover patterns and trends that may shed light on factors influencing burglary activity in specific areas of the city.
+Now that we've gained some insight on the overall burglary rates per year in the city it's time to take a look at where the crimes are appearing. Understanding where burglary incidents are occurring is crucial for identifying hotspots and deploying targeted interventions to mitigate risk. 
 
 <iframe src="assets/map.html" 
     align="right" 
@@ -28,7 +28,7 @@ Now that we've gained some insight on the overall burglary rates per year in the
     frameborder="0">
 </iframe>
 
-The map above illustrates that the northern and central districts of San Francisco are characterized by the highest rates of burglary incidents.Understanding these geographical patterns is essential for directing resources and implementing targeted crime prevention measures in the neighborhoods most affected by burglary. 
+The map above illustrates ratio of burglaries per area in SF districts in different days of week. Since districts in SF have significantly different areas, it was important to include this information instead just showing number of occurences in each district. When investigating patterns throughout the week, it's easy to see that Tenderloin district is the most dangerous one. Although the ration of incidents is quite stable throughout the week, there is a peak on Fridays visible especially in Tenderloin and Central districts. It suggests that deploying more police forces in those regions on Fridays could possibly prevent some of those incidents happening.
 
 
 Transitioning from the spatial analysis, our investigation now turns towards examining the temporal distribution of burglary incidents throughout the week. By exploring the frequency of burglaries across different weekdays, we aim to uncover patterns in the timing of these crimes. 
