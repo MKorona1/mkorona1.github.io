@@ -19,7 +19,14 @@ As observed in the plot above, there are no significant changes in the number of
 
 Now that we've gained some insight on the overall burglary rates per year in the city it's time to take a look at where the crimes are appearing. Understanding where burglary incidents are occurring is crucial for identifying hotspots and deploying targeted interventions to mitigate risk. By examining the geographical locations of these incidents, we aim to uncover patterns and trends that may shed light on factors influencing burglary activity in specific areas of the city.
 
-<iframe src="assets/plotly_plot.html" align="right" width="100%" height="500px" scrolling="no" seamless="seamless" frameborder="0"></iframe>
+<iframe src="assets/plotly_plot.html" 
+    align="right" 
+    width="800" 
+    height="600"
+    scrolling="no" 
+    seamless="seamless" 
+    frameborder="0">
+</iframe>
 
 The map above illustrates that the northern and central districts of San Francisco are characterized by the highest rates of burglary incidents.Understanding these geographical patterns is essential for directing resources and implementing targeted crime prevention measures in the neighborhoods most affected by burglary. 
 
@@ -28,8 +35,9 @@ Transitioning from the spatial analysis, our investigation now turns towards exa
 
 <iframe src="assets/districts_years.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="500"
+    align="left"
+    width="800"
+    height="600"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
