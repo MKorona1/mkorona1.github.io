@@ -15,7 +15,7 @@ Let's begin our analysis by examining trend in the burglary rates throughout the
 <img align="left" width="500" src="assets/burglary_years.png" style="padding-right: 20px">
 <!-- *Burglary Incidents per Year (2012-2017)* -->
 
-As observed in the plot on the left, the number of burglary incidents is quite stable throughout the years. There was a visible drop in the number of crimes between 2007 and 2011, that might have given some hope to SF's redidents, but later the numbers increased again. We can clearly see that the situation was a bit better than in mentioned before year 2021, but with the rates going up to over 7000 in 2005, one can wonder if the situation is significantly worse nowadays. 
+As observed in the plot on the left, the number of burglary incidents is quite stable throughout the years. There was a visible drop in the number of crimes between 2007 and 2011, that might have given some hope to SF's redidents, but later the numbers increased again. We can clearly see that the situation was a bit better than in, mentioned before, year 2021, but with the rates going up to over 7000 in 2005, one could argue that the situation is not that much worse nowadays. 
 
 Now that we've gained some insight on the overall burglary rates per year in the city it's time to take a look at where the crimes are appearing. Understanding where burglary incidents are occurring is crucial for identifying hotspots and deploying targeted interventions to mitigate risk. 
 
@@ -31,7 +31,7 @@ Now that we've gained some insight on the overall burglary rates per year in the
 The map on the right illustrates ratio of burglaries per area in SF districts in different days of week. Since districts in SF have significantly different areas, it was important to include this information instead just showing number of occurences in each district. When investigating patterns throughout the week, it's easy to see that Tenderloin district is the most dangerous one. Although the ratio of incidents is quite stable throughout the week, there is a peak on Fridays visible especially in Tenderloin and Central districts. It suggests that allocating more police forces in those regions on Fridays could possibly prevent some of those incidents happening.
 
 
-Seeing as the crime rates are quite stables throughout the years with some visible trends in specific districts thorughout the week, it makes one wonder how does the situation changed in districts over the years. The normalized distribution of crimes per district can be seen in the bar plot below.
+Seeing as the crime rates are quite stable throughout the years with some visible trends in specific districts thorughout the week, it makes one wonder how does the situation changed in districts over the years. The normalized distribution of crimes per district can be seen in the bar plot below.
 
 <iframe src="assets/districts_years.html"
     sandbox="allow-same-origin allow-scripts"
@@ -46,4 +46,4 @@ Seeing as the crime rates are quite stables throughout the years with some visib
 
 As observed above, the crime rate in Tenderloin started decreasing since 2015, suggesting that the city might have taken appropriate measures to deal with the most problematic district. At the same time, there's a district like Mission, which although generally follows a similar trend as a whole San Francisco, it seems that the crime rates started slowly increasing there after 2011 and even exceeded numbers from 2005. It highlights the need to remember that when dealing with one district's issues, one has to still be cautious with what's happening in other places as the crimes might just spread to other parts of the city, as shown in NY Post article mentioned before.
 
-This analysis shows that, despite to some beliefs, the overall situation in San Francisco isn't necessarily that much worse than it used to be in the past. At the same time, focusing on crime prevention in certain areas might have led to a worse situation in different ones. It seems that there's still a lot to be done in terms of safety in SF, and the police could try and focus their efforts on specific districts, or days of the week, while monitoring situation in other parts of the city.
+This analysis shows that, despite some beliefs, the overall situation in San Francisco isn't necessarily that much worse than it used to be in the past. At the same time, focusing on crime prevention in certain areas might have led to a worse situation in different ones. It seems that there's still a lot to be done in terms of safety in SF, and the police could try and focus their efforts on specific districts, or days of the week, while monitoring situation in other parts of the city.
