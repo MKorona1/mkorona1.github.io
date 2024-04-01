@@ -36,8 +36,8 @@ Transitioning from the spatial analysis, our investigation now turns towards exa
 <iframe src="assets/districts_years.html"
     sandbox="allow-same-origin allow-scripts"
     align="left"
-    width="700"
-    height="400"
+    width="800"
+    height="500"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
