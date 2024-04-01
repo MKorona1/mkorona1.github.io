@@ -26,7 +26,14 @@ The map above illustrates that the northern and central districts of San Francis
 
 Transitioning from the spatial analysis, our investigation now turns towards examining the temporal distribution of burglary incidents throughout the week. By exploring the frequency of burglaries across different weekdays, we aim to uncover patterns in the timing of these crimes. 
 
-<iframe src="assets/districts_years.html" width="100%" height="500px"></iframe>
+<iframe src="assets/districts_years.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
 
 As observed above, burglaries in San Francisco predominantly occur on weekdays as opposed to weekends. This finding suggests a distinct temporal pattern in burglary activity, with perpetrators being more active during the weekdays.
 
