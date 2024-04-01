@@ -40,7 +40,8 @@ Seeing as the crime rates are quite stables throughout the years with some visib
     height="500"
     scrolling="no"
     seamless="seamless"
-    frameborder="0">
+    frameborder="0"
+    style="padding-bottom: 20px">
 </iframe>
 
 As observed above, the crime rate in Tenderloin started decreasing since 2015, suggesting that the city might have taken appropriate measures to deal with the most problematic district. At the same time, there's a district like Mission, which although generally follows a similar trend as a whole San Francisco, it seems that the crime rates started slowly increasing there after 2011 and even exceeded numbers from 2005. It highlights the need to remember that when dealing with one district's issues, one has to still be cautious with what's happening in other places as the crimes might just spread to other parts of the city, as shown in NY Post article mentioned before.
