@@ -11,21 +11,22 @@ For our analysis, we have chosen to focus specifically on burglary rates from 20
 
 Let's begin our analysis by examining the burglary rates per year from 2012 to 2017 in San Francisco. 
 
-![Burglary Incidents per Year](Burglary Incidents per Year (2012-2017).png)
+<!-- ![Burglary Incidents per Year](Burglary Incidents per Year (2012-2017).png) -->
+<img align="left" width="300" height="200" src="assets/burglary_years.png">
 *Burglary Incidents per Year (2012-2017)*
 
 As observed in the plot above, there are no significant changes in the number of burglary incidents from 2012 to 2017. The consistent trend indicates a relatively stable rate of burglary occurrences over this six-year period in San Francisco. This finding sets the stage for a more detailed analysis to uncover any underlying factors or patterns that may contribute to the consistent level of burglary activity throughout these years.
 
 Now that we've gained some insight on the overall burglary rates per year in the city it's time to take a look at where the crimes are appearing. Understanding where burglary incidents are occurring is crucial for identifying hotspots and deploying targeted interventions to mitigate risk. By examining the geographical locations of these incidents, we aim to uncover patterns and trends that may shed light on factors influencing burglary activity in specific areas of the city.
 
-<iframe src="plotly_plot.html" width="100%" height="500px" scrolling="no" seamless="seamless" frameborder="0"></iframe>
+<iframe src="assets/plotly_plot.html" align="right" width="100%" height="500px" scrolling="no" seamless="seamless" frameborder="0"></iframe>
 
 The map above illustrates that the northern and central districts of San Francisco are characterized by the highest rates of burglary incidents.Understanding these geographical patterns is essential for directing resources and implementing targeted crime prevention measures in the neighborhoods most affected by burglary. 
 
 
 Transitioning from the spatial analysis, our investigation now turns towards examining the temporal distribution of burglary incidents throughout the week. By exploring the frequency of burglaries across different weekdays, we aim to uncover patterns in the timing of these crimes. 
 
-<iframe src="burglary_interactive_weekday.html" width="100%" height="500px"></iframe>
+<iframe src="assets/district_years.html" width="100%" height="500px"></iframe>
 
 As observed above, burglaries in San Francisco predominantly occur on weekdays as opposed to weekends. This finding suggests a distinct temporal pattern in burglary activity, with perpetrators being more active during the weekdays.
 
