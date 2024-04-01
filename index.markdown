@@ -10,12 +10,12 @@ Burglary is a significant concern in urban areas like San Francisco, and underst
 
 To investigate this issue, we used data from a historical collection of crime incidents that happened from 2003 to 2017 in San Francisco. The dataset is provided by City and County of San Francisco and can be accessed [here](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data). It includes information about incidents' types (with 37 unique types in total), location (including address as well as longitude and latitude), and time of occurrence (including date, time and day of week).
 
-Let's begin our analysis by examining trend in the burglary rates throuhout the years. 
+Let's begin our analysis by examining trend in the burglary rates throughout the years. 
 
 <img align="left" width="500" src="assets/burglary_years.png">
 <!-- *Burglary Incidents per Year (2012-2017)* -->
 
-As observed in the plot on the left, the number of burglary incidents is quite stable throughout the years. There was a visible drop in the number of crimes between 2007 and 2011, that might have given some hope to SF's redidents, but later the numbers increased again. We can clearly see that the situation was a bit better than in mentioned before year 2021, but with the rates going up to over 7000 in 2005, one can wonder if the situation is significantly worse nowadays. The consistent trend indicates a relatively stable rate of burglary occurrences over this six-year period in San Francisco. This finding sets the stage for a more detailed analysis to uncover any underlying factors or patterns that may contribute to quite consistent levels of burglary activity throughout these years.
+As observed in the plot on the left, the number of burglary incidents is quite stable throughout the years. There was a visible drop in the number of crimes between 2007 and 2011, that might have given some hope to SF's redidents, but later the numbers increased again. We can clearly see that the situation was a bit better than in mentioned before year 2021, but with the rates going up to over 7000 in 2005, one can wonder if the situation is significantly worse nowadays. 
 
 Now that we've gained some insight on the overall burglary rates per year in the city it's time to take a look at where the crimes are appearing. Understanding where burglary incidents are occurring is crucial for identifying hotspots and deploying targeted interventions to mitigate risk. 
 
