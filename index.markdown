@@ -21,7 +21,7 @@ Now that we've gained some insight on the overall burglary rates per year in the
 
 <iframe src="assets/map.html" 
     align="right" 
-    width="600" 
+    width="700" 
     height="400"
     scrolling="no" 
     seamless="seamless" 
