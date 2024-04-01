@@ -37,6 +37,7 @@ Transitioning from the spatial analysis, our investigation now turns towards exa
     sandbox="allow-same-origin allow-scripts"
     align="left"
     width="100%"
+    height="500"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
