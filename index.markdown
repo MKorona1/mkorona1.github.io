@@ -19,7 +19,7 @@ As observed in the plot above, there are no significant changes in the number of
 
 Now that we've gained some insight on the overall burglary rates per year in the city it's time to take a look at where the crimes are appearing. Understanding where burglary incidents are occurring is crucial for identifying hotspots and deploying targeted interventions to mitigate risk. By examining the geographical locations of these incidents, we aim to uncover patterns and trends that may shed light on factors influencing burglary activity in specific areas of the city.
 
-<iframe src="assets/plotly_plot.html" 
+<iframe src="assets/map.html" 
     align="right" 
     width="600" 
     height="400"
@@ -36,7 +36,7 @@ Transitioning from the spatial analysis, our investigation now turns towards exa
 <iframe src="assets/districts_years.html"
     sandbox="allow-same-origin allow-scripts"
     align="left"
-    width="600"
+    width="700"
     height="400"
     scrolling="no"
     seamless="seamless"
