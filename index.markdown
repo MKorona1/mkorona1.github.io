@@ -47,3 +47,8 @@ Seeing as the crime rates are quite stable throughout the years with some visibl
 As observed above, the crime rate in Tenderloin started decreasing since 2015, suggesting that the city might have taken appropriate measures to deal with the most problematic district. At the same time, there's a district like Mission, which although generally follows a similar trend as a whole San Francisco, it seems that the crime rates started slowly increasing there after 2011 and even exceeded numbers from 2005. It highlights the need to remember that when dealing with one district's issues, one has to still be cautious with what's happening in other places as the crimes might just spread to other parts of the city, as shown in NY Post article mentioned before.
 
 This analysis shows that, despite some beliefs, the overall situation in San Francisco isn't necessarily that much worse than it used to be in the past. At the same time, focusing on crime prevention in certain areas might have led to a worse situation in different ones. It seems that there's still a lot to be done in terms of safety in SF, and the police could try and focus their efforts on specific districts, or days of the week, while monitoring situation in other parts of the city.
+
+#### Contributions
+* Setting up github page, bokeh visualization - s223322
+* Bar plot, map - s205425
+* Writing a data-story - s223322, s205425
